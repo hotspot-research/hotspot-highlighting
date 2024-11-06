@@ -1,4 +1,4 @@
-# NAME
+# Is Usability Testing Valid With Prototypes Where Clickable Hotspots Are Highlighted Upon Misclick?
 
 ## About
 
