@@ -2,11 +2,23 @@
 
 ## About
 
-This is the official repository for the research paper *"Is Usability Testing Valid With Prototypes Where Clickable Hotspots Are Highlighted Upon Misclick?"*. The work addresses hotspot highlighting - receiving a hint for what is interactive when clicking on a non-interactive part of the prototype. It investigates user behavior during prototype testing with different kinds of prototype fidelity in combination with hotspot highlighting.
+This is the official repository for the research paper [*"Is Usability Testing Valid With Prototypes Where Clickable Hotspots Are Highlighted Upon Misclick?"*](https://www.sciencedirect.com/science/article/pii/S0164121225001141). The work addresses hotspot highlighting - receiving a hint for what is interactive when clicking on a non-interactive part of the prototype. It investigates user behavior during prototype testing with different kinds of prototype fidelity in combination with hotspot highlighting.
 
 ### Paper citation
-
-Not published yet.
+```
+@article{KRAJCOVIC2025112446,
+  title = {Is usability testing valid with prototypes where clickable hotspots are highlighted upon misclick?},
+  journal = {Journal of Systems and Software},
+  volume = {226},
+  pages = {112446},
+  year = {2025},
+  issn = {0164-1212},
+  doi = {https://doi.org/10.1016/j.jss.2025.112446},
+  url = {https://www.sciencedirect.com/science/article/pii/S0164121225001141},
+  author = {Matus Krajcovic and Peter Demcak and Eduard Kuric},
+  keywords = {Software prototyping, Usability testing, Prototype interactivity, Hotspot highlighting, User experience}
+}
+```
 
 ### Contents
 
